@@ -11,6 +11,8 @@
 
 //CODE HERE
 
+let gitDefinition = "Git is a version control program that allows the user to track changes to code."
+
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,6 +20,8 @@
 */
 
 //CODE HERE
+
+let gitHubDefinition = "Github is a website where you can upload git repositories and store them."
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -27,6 +31,8 @@
 
 //CODE HERE
 
+let gitInitDefinition = "Git init initializes a repository in whatever folder you're in."
+
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -35,6 +41,8 @@
 
 //CODE HERE
 
+let gitCloneDefinition = "Git clone copies a repository from Github and puts it on your computer"
+
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,6 +50,8 @@
 */
 
 //CODE HERE
+
+let gitStatusDefinition = "Git status allows you to access information on whatever repo you're in."
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -54,6 +64,10 @@
 
 //CODE HERE
 
+let gitAddDefinition = "Git add is used to add updates to the file for the next commit "
+
+let gitAddCode = "git add ."
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -65,6 +79,9 @@
 
 //CODE HERE
 
+let gitCommitDefinition = "Git commint takes a snapshot of you're repository at a specific time."
+
+let gitCommitCode = "git commit -m 'description'"
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +90,5 @@
 */
 
 //CODE HERE
+
+let gitPushDefinition = "Git push is a command that allows you to put all of your commits onto Github"
